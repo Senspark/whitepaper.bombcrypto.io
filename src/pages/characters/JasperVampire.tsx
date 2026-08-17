@@ -10,7 +10,7 @@ export default function JasperVampire() {
         
         <div className="flex justify-center">
           <img 
-            src="/lovable-uploads/34e49e2e-91ec-4106-8b3d-204f3704082d.png" 
+            src="/lovable-uploads/34e49e2e-91ec-4106-8b3d-204f3704082d.webp" 
             alt="Jasper Vampire character" 
             className="max-w-full h-auto rounded-lg"
           />

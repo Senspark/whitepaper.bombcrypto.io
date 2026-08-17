@@ -53,7 +53,7 @@ export default function BlockChest() {
               
               <div className="my-8 flex justify-center">
                 <img 
-                  src="/lovable-uploads/5a6c2b7e-b928-401b-87e0-52999b9c3041.png" 
+                  src="/lovable-uploads/5a6c2b7e-b928-401b-87e0-52999b9c3041.webp" 
                   alt="Different types of Block Chests in Bomb Crypto: Wooden, Silver, Golden, Diamond, and Prison chests with varying rarities and rewards"
                   className="max-w-full h-auto rounded-lg shadow-lg border border-border"
                 />

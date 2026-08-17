@@ -19,7 +19,7 @@ export function Header() {
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-gradient-to-br from-orange-500 to-amber-600 rounded-lg flex items-center justify-center text-white font-bold text-lg overflow-hidden">
               <img 
-                src="/lovable-uploads/2845e937-ef40-439a-bc09-be936adc3bf1.png" 
+                src="/lovable-uploads/2845e937-ef40-439a-bc09-be936adc3bf1.webp" 
                 alt="Bomb Crypto Logo" 
                 className="w-full h-full object-cover"
               />

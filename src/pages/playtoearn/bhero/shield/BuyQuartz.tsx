@@ -44,7 +44,7 @@ export default function BuyQuartz() {
             </div>
           </div>
           
-          <img src="/lovable-uploads/0d171730-a408-4188-a04d-54ffe77b3b11.png" alt="Quartz shop interface" className="my-3" />
+          <img src="/lovable-uploads/0d171730-a408-4188-a04d-54ffe77b3b11.webp" alt="Quartz shop interface" className="my-3" />
           
           <p className="text-muted-foreground leading-relaxed mt-4">
             The larger the pack, the more Quartz you'll receive, making it a smart choice for those looking to stock up on this valuable resource.

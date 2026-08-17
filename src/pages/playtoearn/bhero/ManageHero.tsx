@@ -42,7 +42,7 @@ export default function ManageHero() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/875a2fb5-1832-46a5-9bce-b0c83a59f632.png" 
+              src="/lovable-uploads/875a2fb5-1832-46a5-9bce-b0c83a59f632.webp" 
               alt="Bomb Crypto hero management interface showing heroes with their energy levels and status (Work, Rest, Home) along with control buttons for managing hero activities"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

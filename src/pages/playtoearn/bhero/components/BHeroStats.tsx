@@ -10,7 +10,7 @@ export function BHeroStats() {
           <p><strong>Stamina:</strong> hero's energy</p>
           <p><strong>Bomb Number:</strong> the number of bombs can be placed</p>
           <p><strong>Speed:</strong> movement speed</p>
-          <img src="/lovable-uploads/944c687a-2bbe-490f-b88a-cf138f540efc.png" alt="Hero stats icons" className="my-3" />
+          <img src="/lovable-uploads/944c687a-2bbe-490f-b88a-cf138f540efc.webp" alt="Hero stats icons" className="my-3" />
         </div>
       </div>
       <p className="text-muted-foreground leading-relaxed mt-4">

@@ -101,12 +101,12 @@ export default function MultiChainTokenAllocation() {
             
             <div className="space-y-4 mt-6">
               <img 
-                src="/lovable-uploads/c99d22fd-c5f1-413d-a6e9-7a50250e1630.png" 
+                src="/lovable-uploads/c99d22fd-c5f1-413d-a6e9-7a50250e1630.webp" 
                 alt="Hedgey Finance Vesting Schedule" 
                 className="max-w-full h-auto border border-border rounded-lg"
               />
               <img 
-                src="/lovable-uploads/77d05cd2-a47a-4118-a968-57ba7862aeee.png" 
+                src="/lovable-uploads/77d05cd2-a47a-4118-a968-57ba7862aeee.webp" 
                 alt="Token Allocation Details" 
                 className="max-w-full h-auto border border-border rounded-lg"
               />

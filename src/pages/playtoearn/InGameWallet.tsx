@@ -23,7 +23,7 @@ export default function InGameWallet() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/6289e3bc-e0f4-4ba9-a53a-8022bae2cf04.png" 
+              src="/lovable-uploads/6289e3bc-e0f4-4ba9-a53a-8022bae2cf04.webp" 
               alt="Bomb Crypto Mine wallet interface showing earned tokens including SEN (0.1801), BCOIN (0.5688), and STAR CORE (1.1071) across different networks"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />
@@ -38,7 +38,7 @@ export default function InGameWallet() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/a37adcd0-49ad-44db-b2a2-0d71349210eb.png" 
+              src="/lovable-uploads/a37adcd0-49ad-44db-b2a2-0d71349210eb.webp" 
               alt="Bomb Crypto wallet interface showing Mine, Deposit, and Withdraw tabs with token balances for SEN and BCOIN across BNB and Polygon networks"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />
@@ -53,7 +53,7 @@ export default function InGameWallet() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/296b862d-5572-4c52-81db-6694aa09895f.png" 
+              src="/lovable-uploads/296b862d-5572-4c52-81db-6694aa09895f.webp" 
               alt="Bomb Crypto Withdraw wallet interface showing available balances for SEN, BCOIN, and BHERO S tokens across BNB and Polygon networks for withdrawal"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

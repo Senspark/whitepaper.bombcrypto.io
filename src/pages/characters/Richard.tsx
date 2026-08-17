@@ -10,7 +10,7 @@ export default function Richard() {
         
         <div className="flex justify-center">
           <img 
-            src="/lovable-uploads/5d95272a-1a24-4719-a3fc-e3a8f5daea42.png" 
+            src="/lovable-uploads/5d95272a-1a24-4719-a3fc-e3a8f5daea42.webp" 
             alt="Richard - Man character" 
             className="max-w-full h-auto rounded-lg"
           />

@@ -40,7 +40,7 @@ export default function StakeHero() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/3367291f-971f-429e-9d8a-2ed47603603e.png" 
+              src="/lovable-uploads/3367291f-971f-429e-9d8a-2ed47603603e.webp" 
               alt="Bomb Crypto staking interface showing hero selection, wallet balance, staking dashboard with BCOIN amounts, stake/unstake buttons, and staking options"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

@@ -8,7 +8,7 @@ export default function Exchange() {
       <div className="space-y-6">
         <section>
           <h3 className="text-xl font-semibold mb-4 text-foreground">Unleashing the Power of Your Heroes</h3>
-          <img src="/lovable-uploads/1cd172d1-5b9a-4ec3-9904-26c3e8aa787c.png" alt="Hero exchange interface" className="my-3" />
+          <img src="/lovable-uploads/1cd172d1-5b9a-4ec3-9904-26c3e8aa787c.webp" alt="Hero exchange interface" className="my-3" />
           <p className="text-muted-foreground text-lg leading-relaxed">
             Beyond their combat prowess, your Bomb Crypto Heroes possess another valuable asset: their very essence. By choosing to burn (or destroy) a hero NFT, you can extract valuable Quartzs. These Quartzs serve a variety of purposes within the Bomb Crypto ecosystem, allowing you to upgrade or repair shield for another heroes.
           </p>

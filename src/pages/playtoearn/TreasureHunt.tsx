@@ -21,7 +21,7 @@ export default function TreasureHunt() {
         <section>
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/5bb1ab8e-2f47-4472-bb4e-6b19eadf3623.png" 
+              src="/lovable-uploads/5bb1ab8e-2f47-4472-bb4e-6b19eadf3623.webp" 
               alt="Bomb Crypto Treasure Hunt Mode gameplay showing heroes mining blocks, placing bombs, and collecting rewards like BCOIN and SEN in the mining area"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />
@@ -72,7 +72,7 @@ export default function TreasureHunt() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/77f2cdb2-82ca-453c-9ba2-b15e62463e15.png" 
+              src="/lovable-uploads/77f2cdb2-82ca-453c-9ba2-b15e62463e15.webp" 
               alt="Bomb Crypto reward system diagram showing Base Rewards and Ranking Rewards with different staking scenarios for BCOIN, SEN, and STAR CORE tokens"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

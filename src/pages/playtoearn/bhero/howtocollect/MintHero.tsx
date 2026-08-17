@@ -15,7 +15,7 @@ export default function MintHero() {
       <div className="space-y-6">
         <div className="mb-6">
           <img 
-            src="/lovable-uploads/903e2c73-140b-48d4-9937-a4aeba5f6d22.png" 
+            src="/lovable-uploads/903e2c73-140b-48d4-9937-a4aeba5f6d22.webp" 
             alt="Buy Hero Interface" 
             className="w-full max-w-2xl mx-auto rounded-lg border"
           />
@@ -91,7 +91,7 @@ export default function MintHero() {
           
           <div className="mt-6">
             <img 
-              src="/lovable-uploads/875a2fb5-1832-46a5-9bce-b0c83a59f632.png" 
+              src="/lovable-uploads/875a2fb5-1832-46a5-9bce-b0c83a59f632.webp" 
               alt="Fee Distribution Diagram" 
               className="w-full max-w-2xl mx-auto rounded-lg border"
             />

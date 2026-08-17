@@ -14,7 +14,7 @@ export default function BHouse() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/baa58862-977a-4a4d-9f42-7e048940b878.png" 
+              src="/lovable-uploads/baa58862-977a-4a4d-9f42-7e048940b878.webp" 
               alt="Bomb Crypto Super Villa interior showing heroes resting and recovering energy, with furniture and amenities inside the house"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

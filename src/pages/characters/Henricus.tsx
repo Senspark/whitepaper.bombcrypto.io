@@ -10,7 +10,7 @@ export default function Henricus() {
         
         <div className="flex justify-center">
           <img 
-            src="/lovable-uploads/90449df8-12c7-460f-89e4-b60181800e2b.png" 
+            src="/lovable-uploads/90449df8-12c7-460f-89e4-b60181800e2b.webp" 
             alt="Henricus - The Knight character" 
             className="max-w-full h-auto rounded-lg"
           />

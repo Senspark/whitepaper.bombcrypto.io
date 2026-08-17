@@ -15,7 +15,7 @@ export default function PvPMode() {
 
         <div className="my-8">
           <img 
-            src="/lovable-uploads/2981d20d-2fb8-43d8-bbbb-c4d0bc1862b7.png" 
+            src="/lovable-uploads/2981d20d-2fb8-43d8-bbbb-c4d0bc1862b7.webp" 
             alt="PvP Mode matchmaking screen showing two players ready for battle with countdown timer"
             className="w-full max-w-4xl mx-auto rounded-lg border"
           />
@@ -82,7 +82,7 @@ export default function PvPMode() {
 
           <div className="my-8">
             <img 
-              src="/lovable-uploads/29cc3f3f-21e1-4b0e-ae8c-164d1dd97ba7.png" 
+              src="/lovable-uploads/29cc3f3f-21e1-4b0e-ae8c-164d1dd97ba7.webp" 
               alt="PvP gameplay showing the arena with bombs, blocks, and items scattered across the battlefield"
               className="w-full max-w-4xl mx-auto rounded-lg border"
             />
@@ -123,7 +123,7 @@ export default function PvPMode() {
 
           <div className="my-8">
             <img 
-              src="/lovable-uploads/6b5304f2-0a14-4419-9487-17e4d07e579c.png" 
+              src="/lovable-uploads/6b5304f2-0a14-4419-9487-17e4d07e579c.webp" 
               alt="Lucky Wheel reward screen showing 'YOU WIN' message with various rewards including tokens and gems"
               className="w-full max-w-4xl mx-auto rounded-lg border"
             />

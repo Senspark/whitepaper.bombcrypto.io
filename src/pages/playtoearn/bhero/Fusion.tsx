@@ -13,7 +13,7 @@ export default function Fusion() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/ea207c61-0680-4c3a-8554-5033bebce59f.png" 
+              src="/lovable-uploads/ea207c61-0680-4c3a-8554-5033bebce59f.webp" 
               alt="Bomb Crypto fusion interface showing rarity selection, hero placement slots, success rate indicator (100%), and fusion button"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

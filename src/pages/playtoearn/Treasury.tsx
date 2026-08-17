@@ -18,7 +18,7 @@ export default function Treasury() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/b912a726-7df8-425b-aa08-28add69105dc.png" 
+              src="/lovable-uploads/b912a726-7df8-425b-aa08-28add69105dc.webp" 
               alt="Bomb Crypto Treasury system diagram showing token flow: 80% to Community Treasury, 10% to Dev, 5% to Marketing, and 5% to Burn from players' spending"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

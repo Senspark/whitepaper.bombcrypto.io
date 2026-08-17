@@ -10,7 +10,7 @@ export default function BullyFrog() {
         
         <div className="flex justify-center">
           <img 
-            src="/lovable-uploads/582c0035-08c8-454b-8c9f-c410121a493d.png" 
+            src="/lovable-uploads/582c0035-08c8-454b-8c9f-c410121a493d.webp" 
             alt="Bully Frog character" 
             className="max-w-full h-auto rounded-lg"
           />

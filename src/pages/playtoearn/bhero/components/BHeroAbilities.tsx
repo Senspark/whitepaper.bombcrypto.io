@@ -18,7 +18,7 @@ export function BHeroAbilities() {
         <li>• Go through The Bomb</li>
         <li>• Go through The Block</li>
       </ul>
-      <img src="/lovable-uploads/29a7d30b-4bfb-4354-9fc6-72827be67d5a.png" alt="Hero abilities icons" className="my-3" />
+      <img src="/lovable-uploads/29a7d30b-4bfb-4354-9fc6-72827be67d5a.webp" alt="Hero abilities icons" className="my-3" />
       <p className="text-muted-foreground leading-relaxed mt-4">
         By carefully considering your Heroes' abilities and employing strategic tactics, you can unlock their full potential and achieve greater success in the exciting world of Bomb Crypto.
       </p>

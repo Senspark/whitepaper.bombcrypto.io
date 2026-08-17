@@ -14,7 +14,7 @@ export default function Team() {
 
         <div className="flex justify-center">
           <img 
-            src="/lovable-uploads/2e51e01a-46c3-409f-8258-51d7fb20f271.png" 
+            src="/lovable-uploads/2e51e01a-46c3-409f-8258-51d7fb20f271.webp" 
             alt="Team Logo" 
             className="w-64 h-64 object-contain"
           />

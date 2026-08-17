@@ -96,7 +96,7 @@ export default function MultiChainTokenomics() {
           <h3 className="text-xl font-semibold mb-4 text-foreground">Example Diagram</h3>
           <div className="flex justify-center">
             <img 
-              src="/lovable-uploads/67b06e0b-de8b-4a4a-8e2c-dc082df1b227.png" 
+              src="/lovable-uploads/67b06e0b-de8b-4a4a-8e2c-dc082df1b227.webp" 
               alt="Multi-chain Tokenomics Diagram" 
               className="max-w-full h-auto"
             />

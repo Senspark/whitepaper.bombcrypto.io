@@ -15,7 +15,7 @@ export default function GameEconomic() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/4c9ef8f0-3066-4c57-9d84-c95d927832ce.png" 
+              src="/lovable-uploads/4c9ef8f0-3066-4c57-9d84-c95d927832ce.webp" 
               alt="Bomb Crypto game economy flowchart showing the circulation of BCOIN, SEN tokens, and game assets through web market, P2P market, farming mode, and various game features"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

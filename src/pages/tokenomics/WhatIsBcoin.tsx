@@ -13,7 +13,7 @@ export default function WhatIsBcoin() {
         <section>
           <div className="flex justify-center mb-6">
             <img 
-              src="/lovable-uploads/e1f628b1-0981-482c-b87c-566266c71f5b.png" 
+              src="/lovable-uploads/e1f628b1-0981-482c-b87c-566266c71f5b.webp" 
               alt="BCOIN Token" 
               className="w-32 h-32 object-contain"
             />

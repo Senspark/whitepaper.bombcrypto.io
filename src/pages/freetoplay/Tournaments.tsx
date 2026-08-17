@@ -28,7 +28,7 @@ export default function Tournaments() {
             
             <div className="mt-6 flex justify-center">
               <img 
-                src="/lovable-uploads/c304052f-f975-427a-84e3-538ebb14b23c.png"
+                src="/lovable-uploads/c304052f-f975-427a-84e3-538ebb14b23c.webp"
                 alt="Bomb Crypto Tournament promotional image showing characters celebrating with a golden trophy"
                 className="max-w-full h-auto rounded-lg shadow-lg"
               />
@@ -116,7 +116,7 @@ export default function Tournaments() {
                 
                 <div className="mt-6 flex justify-center">
                   <img 
-                    src="/lovable-uploads/4f1edfbf-1f7a-489a-8590-545d9ed6f579.png"
+                    src="/lovable-uploads/4f1edfbf-1f7a-489a-8590-545d9ed6f579.webp"
                     alt="Tournament Champion trophy with golden crown design featuring the Bomb Crypto character mascot"
                     className="max-w-full h-auto rounded-lg shadow-lg"
                   />
@@ -129,7 +129,7 @@ export default function Tournaments() {
               
               <div className="mt-6 flex justify-center">
                 <img 
-                  src="/lovable-uploads/cfb20352-683c-4d5b-9fe0-4c195443274c.png"
+                  src="/lovable-uploads/cfb20352-683c-4d5b-9fe0-4c195443274c.webp"
                   alt="The Spring Tournament 2025 promotional image showing Bomb Crypto characters in battle with tournament title and 2025 year"
                   className="max-w-full h-auto rounded-lg shadow-lg"
                 />

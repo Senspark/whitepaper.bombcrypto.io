@@ -33,7 +33,7 @@ export default function BcoinStaking() {
           
           <div className="mb-6">
             <img 
-              src="/lovable-uploads/edd99c31-f853-4953-bef7-78dadb958d86.png" 
+              src="/lovable-uploads/edd99c31-f853-4953-bef7-78dadb958d86.webp" 
               alt="BCOIN Staking Dashboard" 
               className="w-full max-w-4xl mx-auto rounded-lg border shadow-lg"
             />

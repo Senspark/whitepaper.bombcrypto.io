@@ -22,7 +22,7 @@ export default function P2PMarket() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/392847be-df69-49f8-a917-3fff7d801b99.png" 
+              src="/lovable-uploads/392847be-df69-49f8-a917-3fff7d801b99.webp" 
               alt="Bomb Crypto P2P Market interface showing heroes marketplace with price filters, hero cards with gem prices, and item categories including bomb skin, booster, wing, and trail"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

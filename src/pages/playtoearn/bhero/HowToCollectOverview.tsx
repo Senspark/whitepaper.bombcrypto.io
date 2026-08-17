@@ -46,7 +46,7 @@ export default function HowToCollectOverview() {
           </p>
           <div className="mt-6">
             <img 
-              src="/lovable-uploads/8fb71b99-12f1-4278-9801-2aa60957dc1f.png" 
+              src="/lovable-uploads/8fb71b99-12f1-4278-9801-2aa60957dc1f.webp" 
               alt="Bomb Crypto Heroes Collection" 
               className="w-full max-w-2xl mx-auto rounded-lg border"
             />

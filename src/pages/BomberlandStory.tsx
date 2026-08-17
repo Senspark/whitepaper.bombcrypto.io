@@ -10,7 +10,7 @@ export default function BomberlandStory() {
         
         <div className="flex flex-col items-center space-y-3">
           <img 
-            src="/lovable-uploads/86ef5e37-9490-4ce2-8f7b-e56a3016c94f.png" 
+            src="/lovable-uploads/86ef5e37-9490-4ce2-8f7b-e56a3016c94f.webp" 
             alt="Bomb Crypto characters silhouettes" 
             className="max-w-full h-auto rounded-lg"
           />

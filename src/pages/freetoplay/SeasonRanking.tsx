@@ -43,7 +43,7 @@ export default function SeasonRanking() {
           
           <div className="mt-6 flex justify-center">
             <img 
-              src="/lovable-uploads/4b236b91-723f-4330-9b03-2d1eb48b081a.png"
+              src="/lovable-uploads/4b236b91-723f-4330-9b03-2d1eb48b081a.webp"
               alt="Bomb Crypto Leaderboard showing season rankings with player positions, rewards, and rank points"
               className="max-w-full h-auto rounded-lg shadow-lg"
             />
@@ -102,7 +102,7 @@ export default function SeasonRanking() {
 
           <div className="mt-6 flex justify-center mb-6">
             <img 
-              src="/lovable-uploads/d011616c-8a72-4160-87c4-7907a73edbc2.png"
+              src="/lovable-uploads/d011616c-8a72-4160-87c4-7907a73edbc2.webp"
               alt="PVP Battle Mode Season 1 - 2024 promotional image with knight character and game screenshots"
               className="max-w-full h-auto rounded-lg shadow-lg"
             />
@@ -114,7 +114,7 @@ export default function SeasonRanking() {
 
           <div className="mt-6 flex justify-center">
             <img 
-              src="/lovable-uploads/710948a3-0b6b-49af-a27b-7595b4ea7a15.png"
+              src="/lovable-uploads/710948a3-0b6b-49af-a27b-7595b4ea7a15.webp"
               alt="PVP Battle Mode Leaderboard May 2025 showing player rankings, rewards and points"
               className="max-w-full h-auto rounded-lg shadow-lg"
             />

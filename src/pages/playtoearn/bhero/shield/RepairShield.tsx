@@ -21,7 +21,7 @@ export default function RepairShield() {
             <li>• Buy Quartz in the shop with BCOIN or SEN</li>
             <li>• Burn heroes to own separated Quartz</li>
           </ul>
-          <img src="/lovable-uploads/988192dd-91d3-415a-acfe-e67cb3b994fb.png" alt="Shield repair interface" className="my-3" />
+          <img src="/lovable-uploads/988192dd-91d3-415a-acfe-e67cb3b994fb.webp" alt="Shield repair interface" className="my-3" />
         </section>
 
         <section>

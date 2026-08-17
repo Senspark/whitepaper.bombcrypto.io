@@ -43,7 +43,7 @@ export default function SenStaking() {
             
             <div className="mb-6">
               <img 
-                src="/lovable-uploads/27c18bf8-38f2-497e-90ba-f78fe78303c1.png" 
+                src="/lovable-uploads/27c18bf8-38f2-497e-90ba-f78fe78303c1.webp" 
                 alt="SEN Staking Dashboard" 
                 className="w-full max-w-4xl mx-auto rounded-lg border shadow-lg"
               />

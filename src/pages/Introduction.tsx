@@ -11,7 +11,7 @@ export default function Introduction() {
 
         <div className="flex justify-center my-8">
           <img 
-            src="/lovable-uploads/e63ee6f8-d4ae-4a14-86ce-1626b9f77ffa.png" 
+            src="/lovable-uploads/e63ee6f8-d4ae-4a14-86ce-1626b9f77ffa.webp" 
             alt="Bomb Crypto Whitepaper" 
             className="max-w-full h-auto rounded-lg shadow-lg"
           />

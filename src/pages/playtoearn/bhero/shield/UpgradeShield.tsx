@@ -10,7 +10,7 @@ export default function UpgradeShield() {
           <p className="text-muted-foreground text-lg leading-relaxed">
             To bolster your heroes' defenses, you have the option to upgrade their shields using Quartz. Upgrading a shield increases its maximum durability, allowing it to withstand more damage before requiring repairs. The cost of each upgrade is determined by the shield's current level and the rarity of Hero, and you can upgrade shields at any time, irrespective of their remaining durability.
           </p>
-          <img src="/lovable-uploads/7684b4d9-0a34-461f-84ea-e16aa3ecfd43.png" alt="Shield upgrade interface" className="my-3" />
+          <img src="/lovable-uploads/7684b4d9-0a34-461f-84ea-e16aa3ecfd43.webp" alt="Shield upgrade interface" className="my-3" />
         </section>
 
         <section>

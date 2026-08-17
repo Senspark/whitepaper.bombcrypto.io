@@ -38,7 +38,7 @@ export default function AutoMine() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/19fea597-0ecc-475d-9812-e1f677587881.png" 
+              src="/lovable-uploads/19fea597-0ecc-475d-9812-e1f677587881.webp" 
               alt="Auto Mine character icon with pickaxe tool for automated mining in Bomb Crypto"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />
@@ -63,7 +63,7 @@ export default function AutoMine() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/963305fe-e7d8-4251-a03a-862941a47d90.png" 
+              src="/lovable-uploads/963305fe-e7d8-4251-a03a-862941a47d90.webp" 
               alt="Auto Mine Package pricing showing 7 days for 20 BCOIN and 30 days for 63 BCOIN with 20% discount offer"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

@@ -12,7 +12,7 @@ export default function Inventory() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/c7393832-a820-4ed6-ae1e-866b0be54d86.png" 
+              src="/lovable-uploads/c7393832-a820-4ed6-ae1e-866b0be54d86.webp" 
               alt="Bomb Crypto inventory interface showing heroes collection with filtering options (Active, High Stats) and various hero cards displaying IDs and stats"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

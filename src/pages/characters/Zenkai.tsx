@@ -9,7 +9,7 @@ export default function Zenkai() {
         
         <div className="flex justify-center">
           <img 
-            src="/lovable-uploads/c986ab17-7417-479b-a00a-904d0954a296.png" 
+            src="/lovable-uploads/c986ab17-7417-479b-a00a-904d0954a296.webp" 
             alt="Zenkai - The Ninja character" 
             className="max-w-full h-auto rounded-lg"
           />

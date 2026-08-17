@@ -22,7 +22,7 @@ export default function SwapGem() {
           
           <div className="my-8 flex justify-center">
             <img 
-              src="/lovable-uploads/6485170c-38ce-4133-b016-edd9752de15f.png" 
+              src="/lovable-uploads/6485170c-38ce-4133-b016-edd9752de15f.webp" 
               alt="Bomb Crypto shop interface showing Swap Gem feature with gem selection, exchange rate display, and swap button for converting gems to BCOIN"
               className="max-w-full h-auto rounded-lg shadow-lg border border-border"
             />

@@ -10,7 +10,7 @@ export default function MagicYaga() {
         
         <div className="flex justify-center">
           <img 
-            src="/lovable-uploads/7830e74a-7f45-4280-b014-371ba73d367c.png" 
+            src="/lovable-uploads/7830e74a-7f45-4280-b014-371ba73d367c.webp" 
             alt="Magic Yaga - The Witch character" 
             className="max-w-full h-auto rounded-lg"
           />

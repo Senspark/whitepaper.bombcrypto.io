@@ -23,7 +23,7 @@ export default function AdventureMode() {
 
         <div className="my-8">
           <img 
-            src="/lovable-uploads/0ff2d03a-562b-432f-983f-e0ece844cff8.png" 
+            src="/lovable-uploads/0ff2d03a-562b-432f-983f-e0ece844cff8.webp" 
             alt="Adventure Mode gameplay showing TOY Stage 1 - Level 1 with a colorful map containing various obstacles, monsters, and collectibles"
             className="w-full max-w-4xl mx-auto rounded-lg border"
           />
@@ -35,7 +35,7 @@ export default function AdventureMode() {
 
         <div className="my-8">
           <img 
-            src="/lovable-uploads/fb55f1e2-f3e8-458f-b137-b9d4a268ad99.png" 
+            src="/lovable-uploads/fb55f1e2-f3e8-458f-b137-b9d4a268ad99.webp" 
             alt="Boss fight gameplay showing intense battle with explosions and strategic positioning"
             className="w-full max-w-4xl mx-auto rounded-lg border"
           />
