@@ -23,6 +23,12 @@ The dev server runs at `http://localhost:8080`.
 npm run build
 ```
 
+## Deployment
+
+Anything merged into `main` goes live automatically. There is nothing to run
+and nothing to configure — open a pull request, get it merged, and the change
+is published within a minute.
+
 ## License
 
 AGPL-3.0 — see [LICENSE](./LICENSE).
