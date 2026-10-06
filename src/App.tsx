@@ -102,6 +102,7 @@ import LegacyRoadmap from "./pages/roadmap/LegacyRoadmap";
 
 // Other pages
 import SmartContracts from "./pages/SmartContracts";
+import Database from "./pages/Database";
 import Team from "./pages/Team";
 import OfficialChannel from "./pages/OfficialChannel";
 
@@ -205,6 +206,7 @@ function App() {
                   
                   {/* Other routes */}
                   <Route path="/smart-contracts" element={<SmartContracts />} />
+                  <Route path="/database" element={<Database />} />
                   <Route path="/team" element={<Team />} />
                   <Route path="/official-channel" element={<OfficialChannel />} />
                   

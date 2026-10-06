@@ -17,6 +17,7 @@ import { useState } from "react";
 
 const mainNavigationItems = [
   { title: "📑 Smart Contract and Github Report", url: "/smart-contracts", emoji: "📑" },
+  { title: "🗄️ Database", url: "/database", emoji: "🗄️" },
   { title: "🏆 Team", url: "/team", emoji: "🏆" },
   { title: "🔥 Official Channel", url: "/official-channel", emoji: "🔥" },
 ];
